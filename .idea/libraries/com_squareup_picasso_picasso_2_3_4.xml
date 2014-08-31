@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="com.squareup.picasso:picasso:2.3.4" type="repository">
+    <properties maven-id="com.squareup.picasso:picasso:2.3.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/picasso-2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-9.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android-4.1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opengl-api-gl1.1-android-2.1_r1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlParserAPIs-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xpp3-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20080701.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/picasso-2.3.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
